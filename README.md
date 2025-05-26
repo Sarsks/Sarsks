@@ -4,17 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm Sarsks</h1>
 <p align="center">💻 Web Developer | 💡 Problem Solver | 🎮 Gamer at heart</p>
-<P>Halo! Saya Sarsks, seorang developer pemula yang sedang membangun fondasi kuat di dunia pemrograman web. Saat ini saya fokus mempelajari dan mengembangkan aplikasi menggunakan teknologi seperti:
+<P>
+  Hello! I'm Sarsks, an aspiring developer currently building a strong foundation in web programming. I'm currently focused on learning and developing applications using technologies such as:</p>
+HTML5 & CSS – to create visually appealing and responsive websites
 
-HTML5, CSS → untuk membuat tampilan website yang menarik dan responsif
+JavaScript – to build interactive and dynamic web features
 
-JavaScript → untuk membuat interaksi dan fitur dinamis di web
+PHP & MySQL – for backend development and database management
 
-PHP & MySQL → untuk backend dan pengelolaan database
-
-Selalu tertarik untuk mengeksplorasi framework dan tools baru
-
-💡 Saya percaya bahwa kemampuan berkembang dari proyek nyata, rasa ingin tahu, dan semangat untuk terus belajar. Saya terbuka untuk kolaborasi, masukan, dan tantangan baru yang bisa membantu saya tumbuh sebagai developer.
+<p>I'm always eager to explore new frameworks and tools.</p>
+💡 I believe that growth comes from real projects, curiosity, and the passion to keep learning. I'm open to collaboration, feedback, and new challenges that can help me grow as a developer.
 </p>
 
 ---
@@ -32,12 +31,9 @@ Selalu tertarik untuk mengeksplorasi framework dan tools baru
 
 ### contact
    <P align="center">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-     "/>
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-     " />
-     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-     "/>
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    
    </p>
 
